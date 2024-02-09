@@ -1,4 +1,4 @@
-# WebscrapingAssignment
+# Webscraping Assignment
 Basic example of webscaraping a teacher provided site:
 
 [webpage]("https://webpages.charlotte.edu/mscipion/")
